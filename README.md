@@ -111,11 +111,3 @@ npm run dev
 Este projeto está sob a licença MIT.
 
 ---
-
-Assinado,
-
-<img src="img/IMG_0092.png" width="200" height="200"/>
-
-## 👨‍💻 Autor
-
-Desenvolvido por você 🚀
