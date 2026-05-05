@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  background: #0f172a;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+/* HEADER */
+.header {
+  text-align: center;
+  padding: 30px;
+}
+
+/* LAYOUT */
+.dashboard {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* INPUTS */
+.inputs {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 150px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+/* CARDS */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}
+
+.card {
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+/* EXPLICAÇÃO */
+.explicacao {
+  margin-top: 10px;
+  text-align: center;
+  color: #cbd5f5;
+}
+
+/* NÚMERO MÁGICO */
+.magic {
+  margin-top: 20px;
+  padding: 20px;
+  background: #111827;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.magic h3 {
+  color: #22c55e;
+}
