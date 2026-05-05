@@ -30,12 +30,8 @@ O número mágico representa a quantidade de cotas necessária para que os divid
 ---
 
 ## 🖥️ Preview
+<img src="preview.png"/>
 
-Adicione aqui um print da aplicação:
-
-```
-/preview.png
-```
 
 ---
 
